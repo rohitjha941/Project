@@ -1,4 +1,6 @@
 function [res] = calc_values( d,t1,t2,m,n,j,phi,theta_max)
+
+ 
 phi = degtorad(phi);
 theta_max = degtorad(theta_max);
 
